@@ -16,3 +16,7 @@ def divide(x, y)
     """Divide Function"""
     return X / y
 
+def add(x, y)
+    """Addition Function"""
+    return X + y
+
